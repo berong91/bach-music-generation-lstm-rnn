@@ -1,0 +1,6 @@
+keras
+music21
+numpy
+pandas
+scipy
+tensorflow
